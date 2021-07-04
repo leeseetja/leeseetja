@@ -2,7 +2,7 @@
 - 👀 I’m interested in numerical modelling and data science applications
 - 🌱 I’m currently learning the Comformal Cubic Atmospheric Model and its physics parameterisations
 - 💞️ I’m looking to collaborate on projects involving optimising or correcting observational data using Machine Learning techniques
-- 📫 You can reach me using one of the following means listed here https://leeseetja.github.io/#contact
+- 📫 You can reach me using one of several ways listed here https://leeseetja.github.io/#contact
 
 <!---
 leeseetja/leeseetja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
