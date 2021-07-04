@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Lesetja Lekoloane. You can read more about me on https://leeseetja.github.io/
 - 👀 I’m interested in numerical modelling and data science applications
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning the Comformal Cubic Atmospheric Model and its physics parameterisations
+- 💞️ I’m looking to collaborate on projects involving optimising or correcting observational data using Machine Learning techniques
+- 📫 You can reach me using one of the following https://leeseetja.github.io/#contact
 
 <!---
 leeseetja/leeseetja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
