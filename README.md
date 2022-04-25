@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lesetja Lekoloane. You can read more about me at https://leeseetja.github.io/
+- 👋 Hi, I’m Lesetja Lekoloane, a data scientist at the South African Weather Service. You can read more about me at https://leeseetja.github.io/
 - 👀 I’m interested in numerical modelling and data science applications
 - 🌱 I’m currently learning the Comformal Cubic Atmospheric Model and its physics parameterisations
 - 💞️ I’m looking to collaborate on projects involving optimising or correcting observational data using Machine Learning techniques
